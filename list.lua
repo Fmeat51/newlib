@@ -1,4 +1,3 @@
 return {
-  ROBLOX = 1,
-  Shonbou = 1673422330
+  '1673422330'
 }
